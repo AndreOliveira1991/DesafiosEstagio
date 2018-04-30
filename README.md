@@ -2,7 +2,9 @@
 Um desafio para mostrar como o candidato lida com um mapeamento de string.
 
 O objetivo é escrever uma função convertToHackerString() que converte letras normais do alfabeto para caracteres hacker.
+
 Esta técnica também é conhecida como Leet, para saber mais sobre ela entre no endereço -> https://en.wikipedia.org/wiki/Leet
+
 Para este desafio vamos nos limitas a apenas letras maiúsculas.
 
 por exemplo:
@@ -45,6 +47,9 @@ func toLeetSpeak(_ s : String) -> String {
 }
 ```
 
-Clone este repositório, desenvolva a solução na linguagem que se sentir mais confortável e suba uma branch com o formato "sua ID + nome do repositorio"
+# Instruções
 
-ex.: dbarbosDesafioHackerString
+- [x] Clone este repositório na sua máquina;
+- [x] Desenvolva a solução na linguagem que se sentir mais confortável
+- [x] Comita uma branch com o formato "sua ID + nome do repositorio" ex.: dbarbosDesafioHackerString
+
