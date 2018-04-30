@@ -51,5 +51,5 @@ func toLeetSpeak(_ s : String) -> String {
 
 - [x] Clone este repositório na sua máquina;
 - [x] Desenvolva a solução na linguagem que se sentir mais confortável
-- [x] Comita uma branch com o formato "sua ID + nome do repositorio" ex.: dbarbosDesafioHackerString
+- [x] Faça um commit e pull para uma branch com o formato "sua ID + nome do repositorio" ex.: dbarbosDesafioHackerString
 
