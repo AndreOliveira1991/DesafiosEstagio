@@ -7,7 +7,7 @@ Para este desafio vamos nos limitas a apenas letras maiúsculas.
 
 por exemplo:
 
-```json
+```javascript
 {
   A : '@',
   B : '8',
