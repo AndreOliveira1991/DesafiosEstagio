@@ -1,0 +1,19 @@
+EXERCÍCIO 1
+
+1 ) x:1 y:2 z:3
+RESULTADO: Não é triângulo
+
+2 ) x:4 y:4 z:4
+RESULTADO: Triângulo Equilátero
+
+3) x:2 y:2 z:4
+RESULTADO: Não é triângulo
+
+4) x:3 y:4 z:5
+RESULTADO: Triângulo Escaleno
+
+
+
+
+EXERCÍCIO 2
+RESULTADO: 45
